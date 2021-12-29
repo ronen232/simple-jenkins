@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('list files') {
             steps {
-                sh 'python3.9 /external/selenium_simple.py'
+                sh 'ls -l'
             }
         }
     }
