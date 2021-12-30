@@ -1,3 +1,1 @@
-# tmp211221
-xcvxcv
-fgh
+# Simplest Jenkinsfile for webhooks demonstrations
